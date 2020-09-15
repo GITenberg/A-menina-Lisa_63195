@@ -1,0 +1,26 @@
+_repo: A-menina-Lisa_63195
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kock, Paul de
+    alias: Kock, Charles Paul de
+    birthdate: 1793
+    deathdate: 1871
+    gutenberg_agent_id: '34988'
+    url: http://www.gutenberg.org/2009/agents/34988
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Charles_Paul_de_Kock
+    - https://fr.wikipedia.org/wiki/Paul_de_Kock
+description: ''
+gutenberg_issued: '2020-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63195'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A menina Lisa
+url: http://www.gutenberg.org/ebooks/63195
