@@ -1,5 +1,8 @@
 _repo: A-menina-Lisa_63195
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63195-h/images/cover.jpg
 creator:
   author:
     agent_name: Kock, Paul de
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Charles_Paul_de_Kock
     - https://fr.wikipedia.org/wiki/Paul_de_Kock
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63195#A-menina-Lisa
 gutenberg_issued: '2020-09-13'
 gutenberg_type: Text
 identifiers:
